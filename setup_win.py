@@ -38,7 +38,7 @@ import wsbfev1, receb1
 #import wsmtx, recem
 #import wsct, recet
 #import wsfecred
-import ws_sr_padron
+#import ws_sr_padron
 #from pyafipws import pyfepdf
 #import pyemail
 #import pyi25
@@ -54,14 +54,14 @@ import ws_sr_padron
 #import wsremazucar
 #import wscoc
 import wscdc
-import cot
-import iibb
+#import cot
+#import iibb
 #import trazamed
 #import trazaprodmed
 #import trazarenpre
 #import trazafito
 #import trazavet
-import padron
+#import padron
 #import sired
 
 data_files = [
