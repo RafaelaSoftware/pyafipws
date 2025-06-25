@@ -21,7 +21,7 @@ import sys
 
 __version__ = "3.10.0000"
 
-HOMO = True
+HOMO = False
 
 # build a one-click-installer for windows:
 import py2exe
